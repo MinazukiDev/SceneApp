@@ -1,0 +1,9 @@
+Package: com.minazuki.sceneapp
+Name: SceneApp
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An application that uses SceneKit.
+Depiction: https://minazukidev.github.io/html/SceneApp/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Utilities
